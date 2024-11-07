@@ -1,1 +1,2 @@
 CREATE DATABASE rubrica;
+USE DATABASE rubrica;
